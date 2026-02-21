@@ -7,11 +7,13 @@ using System.Threading.Tasks;
 namespace Torres_de_Hanoi
 {
     class Pila
-    {
+    {   
+        // Propiedades
         public int Size { get; set; }
         public Disco Top { get; set; }
         public List<Disco> Elementos { get; set; }
 
+        // Constructor
         public Pila()
         {
             Elementos = new List<Disco>();
@@ -19,6 +21,7 @@ namespace Torres_de_Hanoi
             Top = null;
         }
 
+        // Métodos
         public void push(Disco d)
         {
             Elementos.Add(d);
