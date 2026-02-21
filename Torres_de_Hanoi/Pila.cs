@@ -18,7 +18,7 @@ namespace Torres_de_Hanoi
         public List<Disco> Elementos { get; set; }
         */
 
-        /* TODO: Implementar métodos */
+        /* TODO: Implementar métodos  aaaaa*/
         public Pila()
         {
 
