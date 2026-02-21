@@ -8,11 +8,25 @@ namespace Torres_de_Hanoi
 {
     class Disco
     {
-        /*TODO  prueba: 
-        Decidir tipo de Valor
-        public int Valor { get; set; }
-        public String Valor { get; set; }
-        */
+        // Propiedades
+        private int valor;
+
+        // Constructor
+        public Disco(int valor)
+        {
+            this.valor = valor;
+        }
+
+        // Métodos
+        public int GetValor()
+        {
+            return valor;
+        }
+        public override string ToString()
+        {
+            return valor.ToString();
+        }
+
 
     }
 }
