@@ -90,7 +90,26 @@ namespace Torres_de_Hanoi
         //Metodo Recursivo
         //----------------------
 
-
+        public static void recursivo(int n, Pila INI, Pila AUX, Pila FIN, ref int movimientos)
+        {
+            if (n == 1)
+            { //Mover el disco de INI a FIN
+                mover_disco(INI, FIN);
+                movimientos++;
+                mostrar_estado(INI, AUX, FIN, movimientos);
+            }
+            else
+            {
+                //Mover n-1 discos de INI a AUX usando FIN como auxiliar
+                recursivo(n - 1, INI, FIN, AUX, ref movimientos);
+                //Mover el disco restante de INI a FIN
+                mover_disco(INI, FIN);
+                movimientos++;
+                mostrar_estado(INI, AUX, FIN, movimientos);
+                //Mover n-1 discos de AUX a FIN usando INI como auxiliar
+                recursivo(n - 1, AUX, INI, FIN, ref movimientos);
+            }
+        }
 
 
 
