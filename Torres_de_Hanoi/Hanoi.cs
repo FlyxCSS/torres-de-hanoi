@@ -119,14 +119,8 @@ namespace Torres_de_Hanoi
         public static void mostrar_estado(Pila INI, Pila AUX, Pila FIN, int movimiento)
         {
 
-            if (movimiento == 0)
-            { 
-                Console.WriteLine("\nSituación inicial");
-            }
-            else
-            {
-                Console.WriteLine("\nSituación tras el movimiento " + movimiento);
-            }
+            if (movimiento == 0) Console.WriteLine("\nSituación inicial");
+            else Console.WriteLine("\nSituación tras el movimiento " + movimiento);
 
         Console.Write("Torre INI: ");
             foreach (Disco d in INI.Elementos)

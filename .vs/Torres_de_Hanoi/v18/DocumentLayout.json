@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\fause\\Documents\\Universidad\\4\u00BA Cuatri\\Algoritmica para videojuegos\\PrimeraPractica\\torres-de-hanoi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D4825FBA-34D9-4C02-B9F4-8B722AD78E11}|Torres_de_Hanoi\\Torres_de_Hanoi.csproj|c:\\users\\fause\\documents\\universidad\\4\u00BA cuatri\\algoritmica para videojuegos\\primerapractica\\torres-de-hanoi\\torres_de_hanoi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D4825FBA-34D9-4C02-B9F4-8B722AD78E11}|Torres_de_Hanoi\\Torres_de_Hanoi.csproj|c:\\users\\fause\\documents\\universidad\\4\u00BA cuatri\\algoritmica para videojuegos\\primerapractica\\torres-de-hanoi\\torres_de_hanoi\\disco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4825FBA-34D9-4C02-B9F4-8B722AD78E11}|Torres_de_Hanoi\\Torres_de_Hanoi.csproj|solutionrelative:torres_de_hanoi\\disco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4825FBA-34D9-4C02-B9F4-8B722AD78E11}|Torres_de_Hanoi\\Torres_de_Hanoi.csproj|C:\\Users\\fause\\Documents\\Universidad\\4\u00BA Cuatri\\Algoritmica para videojuegos\\PrimeraPractica\\torres-de-hanoi\\torres_de_hanoi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4825FBA-34D9-4C02-B9F4-8B722AD78E11}|Torres_de_Hanoi\\Torres_de_Hanoi.csproj|solutionrelative:torres_de_hanoi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D4825FBA-34D9-4C02-B9F4-8B722AD78E11}|Torres_de_Hanoi\\Torres_de_Hanoi.csproj|C:\\Users\\fause\\Documents\\Universidad\\4\u00BA Cuatri\\Algoritmica para videojuegos\\PrimeraPractica\\torres-de-hanoi\\torres_de_hanoi\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4825FBA-34D9-4C02-B9F4-8B722AD78E11}|Torres_de_Hanoi\\Torres_de_Hanoi.csproj|solutionrelative:torres_de_hanoi\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4825FBA-34D9-4C02-B9F4-8B722AD78E11}|Torres_de_Hanoi\\Torres_de_Hanoi.csproj|C:\\Users\\fause\\Documents\\Universidad\\4\u00BA Cuatri\\Algoritmica para videojuegos\\PrimeraPractica\\torres-de-hanoi\\torres_de_hanoi\\disco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4825FBA-34D9-4C02-B9F4-8B722AD78E11}|Torres_de_Hanoi\\Torres_de_Hanoi.csproj|solutionrelative:torres_de_hanoi\\disco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,59 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Disco.cs",
               "DocumentMoniker": "C:\\Users\\fause\\Documents\\Universidad\\4\u00BA Cuatri\\Algoritmica para videojuegos\\PrimeraPractica\\torres-de-hanoi\\Torres_de_Hanoi\\Disco.cs",
               "RelativeDocumentMoniker": "Torres_de_Hanoi\\Disco.cs",
               "ToolTip": "C:\\Users\\fause\\Documents\\Universidad\\4\u00BA Cuatri\\Algoritmica para videojuegos\\PrimeraPractica\\torres-de-hanoi\\Torres_de_Hanoi\\Disco.cs",
               "RelativeToolTip": "Torres_de_Hanoi\\Disco.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-10T08:19:12.288Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Pila.cs",
               "DocumentMoniker": "C:\\Users\\fause\\Documents\\Universidad\\4\u00BA Cuatri\\Algoritmica para videojuegos\\PrimeraPractica\\torres-de-hanoi\\Torres_de_Hanoi\\Pila.cs",
               "RelativeDocumentMoniker": "Torres_de_Hanoi\\Pila.cs",
               "ToolTip": "C:\\Users\\fause\\Documents\\Universidad\\4\u00BA Cuatri\\Algoritmica para videojuegos\\PrimeraPractica\\torres-de-hanoi\\Torres_de_Hanoi\\Pila.cs",
               "RelativeToolTip": "Torres_de_Hanoi\\Pila.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAADwvzIAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-10T08:19:02.252Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-10T08:19:02.252Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Hanoi.cs",
               "DocumentMoniker": "C:\\Users\\fause\\Documents\\Universidad\\4\u00BA Cuatri\\Algoritmica para videojuegos\\PrimeraPractica\\torres-de-hanoi\\Torres_de_Hanoi\\Hanoi.cs",
               "RelativeDocumentMoniker": "Torres_de_Hanoi\\Hanoi.cs",
               "ToolTip": "C:\\Users\\fause\\Documents\\Universidad\\4\u00BA Cuatri\\Algoritmica para videojuegos\\PrimeraPractica\\torres-de-hanoi\\Torres_de_Hanoi\\Hanoi.cs",
               "RelativeToolTip": "Torres_de_Hanoi\\Hanoi.cs",
-              "ViewState": "AgIAAHEAAAAAAAAAAAAcwH8AAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T10:22:49.32Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-18T10:22:49.32Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\fause\\Documents\\Universidad\\4\u00BA Cuatri\\Algoritmica para videojuegos\\PrimeraPractica\\torres-de-hanoi\\Torres_de_Hanoi\\Program.cs",
               "RelativeDocumentMoniker": "Torres_de_Hanoi\\Program.cs",
               "ToolTip": "C:\\Users\\fause\\Documents\\Universidad\\4\u00BA Cuatri\\Algoritmica para videojuegos\\PrimeraPractica\\torres-de-hanoi\\Torres_de_Hanoi\\Program.cs",
               "RelativeToolTip": "Torres_de_Hanoi\\Program.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAUwBwAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwCsAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-10T08:19:10.486Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-10T08:19:10.486Z"
             }
           ]
         }

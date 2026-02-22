@@ -26,7 +26,5 @@ namespace Torres_de_Hanoi
         {
             return valor.ToString();
         }
-
-
     }
 }

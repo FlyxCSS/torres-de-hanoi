@@ -10,7 +10,7 @@ namespace Torres_de_Hanoi
     {
         static void Main(string[] args)
         {
-            //titulo 
+            // título 
             Console.Write("\nPractica 1, Torres de Hanoi");
             Console.Write("\n3 torres");
 
